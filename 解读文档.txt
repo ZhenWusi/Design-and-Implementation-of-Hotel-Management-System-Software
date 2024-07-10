@@ -1,0 +1,1 @@
+本软件为酒店管理软件，每一部分可以独立运行。您可以运行主页面.py开始管理员和客户身份选择进行后面步骤。酒店管理系统.db存储相关数据库数据。后期我将会同步到https://github.com/ZhenWusi/Design-and-Implementation-of-Hotel-Management-System-Software。并根据需要继续修改完善。
